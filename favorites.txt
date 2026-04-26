@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Briyani
 Fried Rice
 Burger
+Harry potter
+KGF
+Interstellar
+>>>>>>> movies
